@@ -1,5 +1,11 @@
 # Employee-Tracker
 
+![Screenshot 2023-05-06 004323](https://user-images.githubusercontent.com/119268105/236602798-e00cc4e0-0da8-4859-812b-805925fcf9d4.png)
+
+
+## Demo
+https://drive.google.com/file/d/1kP95R2AMA6fZmHCRS9WZyci8AbUCkCLB/view
+
 ## Description
 The Employee Tracker is a command line application that allows users to view and interact with information stored in an employee database. Users can view employees, roles, and departments, as well as add, update, and delete employees, roles, and departments as needed.
 
